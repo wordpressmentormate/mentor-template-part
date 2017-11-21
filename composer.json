@@ -1,0 +1,13 @@
+{
+    "name": "mentormate/image-src",
+    "description": "A handy WordPress library to get image src with crop options.",
+    "keywords": ["wordpress", "image src"],
+    "type": "library",
+    "license": "GPL-2.0+",
+    "authors": [
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["images.php"]
+    }
+}

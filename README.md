@@ -1,2 +1,2 @@
-# mentor-template-part
-An alternative to native WordPress function get_template_part that allows passing of arbitrary arguments to the template partial.
+# theme-includes
+Include a function that will return an image source and will crop the image if needed.
